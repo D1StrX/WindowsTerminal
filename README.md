@@ -16,7 +16,7 @@ Mklink creates a symbolic link between the Link and the Target folder.
 
 **Create Symbolic link for Roaming State**\
 Move the Roaming State folder to your Cloud connected location.
-  - For OneDrive this would be: C:\Users\<username>\OneDrive\path\to\Moved Roaming State \
+  - For OneDrive this would be: C:\Users\<username>\OneDrive\path\to\Moved Roaming State
 
 *Important:* The Roaming State folder must not be left in the original directory. Mklink creates a new symbolic folder, and can't when the folder exits.
 
@@ -46,7 +46,7 @@ Move the Settings.json file in the Local State folder to your Cloud connected fo
 
 **Local State can be found at:** (folder location where your Windows Terminal settings.json can be found)
 ```
-%LOCALAPPDATA%\packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState \
+%LOCALAPPDATA%\packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 ```
 Windows Key + R and paste the path above
 
