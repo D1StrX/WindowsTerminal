@@ -77,3 +77,5 @@ Mklink will create the settings.json file and Roaming State folder for you. </p>
 * You have created a link between the Windows Terminal settings.json file and Roaming State folder to the cloud synced one
 * When you click on the Symbolic folder you will be redirected to the Cloud connected location.
 * All your Windows Terminals that are connected to your Cloud Storage location, configured as described above, will now be synchronized.
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
