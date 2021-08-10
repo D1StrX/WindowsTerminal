@@ -68,7 +68,7 @@ MKLINK [[/D] | [/H] Link Target
 /d = Symblic link for directories
 ```
 
-<h3>On your other devices</h3>
+<h3>On your other Windows devices</h3>
 <p>Follow the steps listed above. But instead of moving the Roaming and Locale State folders, you remove them. <br>
 Mklink will create the settings.json file and Roaming State folder for you. </p>
 
