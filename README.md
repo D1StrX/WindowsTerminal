@@ -40,7 +40,7 @@ mklink /d "C:\Users\<username>\AppData\Local\packages\Microsoft.WindowsTerminal_
 
 **Create Symbolic link for Settings.json**\
 Move the Settings.json file in the Local State folder to your Cloud connected folder.
-  - For OneDrive this would be: C:\Users\<username>\OneDrive\path\to\Local State\settings.json \
+  - For OneDrive this would be: C:\Users\<username>\OneDrive\path\to\Local State\settings.json
 
 *Important:* Don't have Windows Terminal opened, otherwise it will generate a new settings.json file. Mklink creates a new symbolic file, and can't when the file exits.
 
